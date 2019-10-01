@@ -17,3 +17,5 @@ To learn more:
 * [Bash shell](https://pbs.twimg.com/media/EFipM9hUwAAuHJO.jpg:large)
 * [R](https://pbs.twimg.com/media/EFipM9hUwAAuHJO.jpg:large)
 * [Git](https://pbs.twimg.com/media/EFipM9hUwAAuHJO.jpg:large)
+
+![My brain status](https://m.media-amazon.com/images/I/91HB9hZTcUL._SS500_.jpg)
